@@ -1,0 +1,23 @@
+{
+  "name": "shop-dev-example",
+  "version": "1.0.0",
+  "description": "Small ecommerce app build with React",
+  "type": "module",
+  "main": "server.js",
+  "scripts": {
+    "start": "node backend/server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ValentinMP/Shopify-Dev-Example.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ValentinMP/Shopify-Dev-Example/issues"
+  },
+  "homepage": "https://github.com/ValentinMP/Shopify-Dev-Example#readme",
+  "dependencies": {
+    "express": "^4.21.2"
+  }
+}
